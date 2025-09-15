@@ -17,4 +17,7 @@ third_party {
     value: "https://github.com/libusb/libusb"
     version: "e392f3b7f7c3550c665793db2eea37a95c3bb105"
   }
+  security: {
+    tag: "NVD-CPE2.3:cpe:/a:libusb:libusb:1.0.29"
+  }
 }
