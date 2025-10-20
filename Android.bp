@@ -41,6 +41,7 @@ cc_defaults {
     name: "libusb_defaults",
     host_supported: true,
     vendor_available: true,
+    recovery_available: true,
 
     srcs: [
         "libusb/core.c",
